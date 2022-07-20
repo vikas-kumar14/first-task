@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "sanu",
+      "mobile": 9834882365,
+      "age": 34,
+      "education": "MCA",
+      "id": 3
+    },
+    {
+      "name": "vikas kumar",
+      "mobile": "9174343907",
+      "age": "14",
+      "education": "BE",
+      "id": 5
+    },
+    {
+      "name": "cool",
+      "mobile": "987340934597",
+      "age": "45",
+      "education": "Mtech",
+      "id": 7
+    },
+    {
+      "name": "asdf23",
+      "mobile": "23",
+      "age": "2",
+      "education": "fasdfasdf",
+      "id": 8
+    }
+  ]
+}

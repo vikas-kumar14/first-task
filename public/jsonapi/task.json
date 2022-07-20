@@ -1,0 +1,43 @@
+{
+	"productCopy": [{
+				"id":1,
+				"title": "Personal data security and banking",
+				"Image": {
+					"alt": "firewall interface image",
+					"path": "https://media.istockphoto.com/photos/cyber-security-firewall-interface-protection-concept-businesswoman-picture-id1350595566?b=1&k=20&m=1350595566&s=170667a&w=0&h=AwSU88YrRnq6dHSvS8QvhSMmfassXFu7jOV8dbr8NwE="
+				},
+				"link": "/product-detail/1",
+				"description": "Cyber security firewall interface protection concept. Businesswoman protecting herself from cyber attacks. Personal data security and banking."
+			},
+			{
+				"id":2,
+				"title": "Customer service concept",
+				"Image": {
+					"alt": "drawing face emoticon image",
+					"path": "https://media.istockphoto.com/photos/businessman-touching-and-drawing-face-emoticon-smile-on-the-tablet-picture-id1150199866?k=20&m=1150199866&s=612x612&w=0&h=2p6z3Phsakc2ba_bn28rYsU3BjQUf5BLSNCnonUSym8="
+				},
+				"link": "/product-detail/2",
+				"description": "Businessman touching and drawing face emoticon smile on the tablet, service mind. blue background. Customer service concept."
+			},
+			{
+				"id":3,
+				"title": "Analysis and planning of business",
+				"Image": {
+					"alt": "digital marketing image",
+					"path": "https://media.istockphoto.com/photos/businessman-using-mobile-smartphone-and-icon-network-connection-data-picture-id1182604339?k=20&m=1182604339&s=612x612&w=0&h=hyhw846mr0zX9EfTEk_Q0NEK63kZl_uGS9vTvXJ1SrU="
+				},
+				"link": "/product-detail/3",
+				"description": "Businessman using mobile smartphone and icon network connection data with growth graph customer, digital marketing, banking and payment online, analysis and planning of business."
+			},
+			{
+				"id":4,
+				"title": "Modern design business colorful concept",
+				"Image": {
+					"alt": "connection sign image",
+					"path": "https://media.istockphoto.com/photos/futuristic-glowing-blue-wifi-symbol-on-black-dark-background-with-picture-id1297855259?b=1&k=20&m=1297855259&s=170667a&w=0&h=VPCwHBRy2-9NJX6kqNcJ19yQ_6aYJ9EnnCCBR9f2HOM="
+				},
+				"link": "/product-detail/4",
+				"description": "Futuristic glowing blue wi-fi symbol on black dark background with blurred reflection. Signal app, connection sign, neon lights. Modern design business colorful concept."
+			}
+		]
+}
